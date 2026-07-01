@@ -27,3 +27,10 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# .NET build artifacts
+bin/
+obj/
+
+# Local Claude settings
+.claude/settings.local.json
