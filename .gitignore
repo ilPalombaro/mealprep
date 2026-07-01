@@ -15,6 +15,10 @@ Thumbs.db
 # Logs
 *.log
 
+# Archives
+*.zip
+interfacce-e-progetto.zip
+
 # Dependencies / build artifacts
 node_modules/
 dist/
